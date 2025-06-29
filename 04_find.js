@@ -43,6 +43,7 @@ const products = [
 
 //find approach: when finding single thing (specific)
 //note****: it accept only one result though it hs similar value in it 
+//if it can't find similar things it return undefiend 
 
 
 
