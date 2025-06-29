@@ -13,7 +13,7 @@ const country = `My country name is ${countryName}`;
 console.log(country);
 
 
-// pread operator
+// spread operator: in spread operator we cannot remove {object} but we can merge them
 
 const numbers = [1,2,3,4,5,6,7,8,9,10];
 const numbers2 = [11,12,13,14,15];
